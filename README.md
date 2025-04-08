@@ -15,3 +15,7 @@
 ## Persyaratan
 Sebelum menjalankan aplikasi, pastikan memiliki perangkat lunak yang terinstall :
 - **go1.24.1**
+
+### 2. **Instalasi dependency dengan Go mod**
+```bash
+go mod tidy
